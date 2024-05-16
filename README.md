@@ -5,9 +5,9 @@
 
 <img src="https://raw.githubusercontent.com/KartikLabhshetwar/KartikLabhshetwar/output/snake.svg" alt="Snake animation" />
 
-###
+### 
 
-<img align="right" height="156" src="https://gifdb.com/images/high/shinobu-kocho-anime-greetings-uo85tpb6pbdsqrso.gif"  />
+<img align="right" height="156" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
