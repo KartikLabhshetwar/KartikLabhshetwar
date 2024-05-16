@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="100" src="https://gifdb.com/images/high/shinobu-kocho-anime-greetings-uo85tpb6pbdsqrso.gif"  />
+<img align="right" height="156" src="https://gifdb.com/images/high/shinobu-kocho-anime-greetings-uo85tpb6pbdsqrso.gif"  />
 
 ###
 
