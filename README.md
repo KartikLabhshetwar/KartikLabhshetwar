@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=KartikLabhshetwar)
 ## About Kartik
 <p style="font-size:7px;">
-Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software 
+Just a dev on a mission to supercharge my workflow, build blazing-fast projects, master memory management, and create truly epic software.
 </p>
 <p>Fun fact : i 01000011 01001111 01000100 01000101  in Binary. </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
