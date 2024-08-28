@@ -49,23 +49,4 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 <img src="https://streak-stats.demolab.com/?user=KartikLabhshetwar&theme=holi-theme">
 </p>
 
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p
-														 
-
-
-
-<!--
-## Latest Blogs
-
-<!-- BLOGPOSTS:START -->
- - 🌮 [React : Creation](https://medium.com/@vineetagarwal.now/vite-create-vs-npm-create-react-app-1fac1c9afec2)
- - 🐋 [Docker : Containerize your react app](https://vineetagarwal.hashnode.dev/containerize-your-react-app-easily)
-
-<!-- BLOGPOSTS:END -->
--->
-
-
-
-
-
+														
