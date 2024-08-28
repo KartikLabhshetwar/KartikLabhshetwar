@@ -54,7 +54,8 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 														 
 
 
-<!-- 
+
+<!--
 ## Latest Blogs
 
 <!-- BLOGPOSTS:START -->
@@ -63,6 +64,8 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 <!-- BLOGPOSTS:END -->
 -->
+
+
 
 
 
