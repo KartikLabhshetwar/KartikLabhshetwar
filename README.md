@@ -41,6 +41,4 @@ Just a dev on a mission to supercharge my workflow, build blazing-fast projects,
 ## Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KartikLabhshetwar&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
 														
