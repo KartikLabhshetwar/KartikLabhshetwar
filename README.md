@@ -17,6 +17,8 @@
 
 #### 🔷 my latest projects
 
+- **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
+
 - **[Lazy Commit](https://github.com/KartikLabhshetwar/lazycommit)** — CLI tool that automatically writes git commit messages using AI. Never write a commit message again. Seamlessly integrates with git workflows and supports multiple commit styles. Built with Node.js and Groq AI.
 
 - **[Quotick](https://github.com/KartikLabhshetwar/quotick)** — VS Code extension that automatically converts quotes to backticks when typing template literals. Simplifies JavaScript/TypeScript development workflow.
@@ -36,6 +38,8 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 #### 🔷 notable projects
 
 - **[Mind Mentor AI](https://github.com/KartikLabhshetwar/mind-mentor)** — AI-powered educational assistant that revolutionizes learning through Groq AI and LLMs. Provides personalized learning experiences, intelligent study plans, and dynamic resource curation for efficient and engaging education.
+
+- **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
 
 - **[Lazy Commit](https://github.com/KartikLabhshetwar/lazycommit)** — CLI tool that automatically writes git commit messages using AI. Never write a commit message again. Seamlessly integrates with git workflows and supports multiple commit styles. Built with Node.js and Groq AI.
 
