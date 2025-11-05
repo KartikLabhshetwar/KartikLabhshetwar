@@ -17,6 +17,8 @@
 
 #### 🔷 my latest projects
 
+- **[Stage](https://github.com/KartikLabhshetwar/stage)** — Modern web-based canvas editor for creating stunning visual designs. Upload images, add text overlays, customize backgrounds, and export high-quality graphics—all in your browser. Built with Next.js 16, React 19, Konva, and Cloudinary.
+
 - **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
 
 - **[Lazy Commit](https://github.com/KartikLabhshetwar/lazycommit)** — CLI tool that automatically writes git commit messages using AI. Never write a commit message again. Seamlessly integrates with git workflows and supports multiple commit styles. Built with Node.js and Groq AI.
@@ -38,6 +40,8 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 #### 🔷 notable projects
 
 - **[Mind Mentor AI](https://github.com/KartikLabhshetwar/mind-mentor)** — AI-powered educational assistant that revolutionizes learning through Groq AI and LLMs. Provides personalized learning experiences, intelligent study plans, and dynamic resource curation for efficient and engaging education.
+
+- **[Stage](https://github.com/KartikLabhshetwar/stage)** — Modern web-based canvas editor for creating stunning visual designs. Upload images, add text overlays, customize backgrounds, and export high-quality graphics—all in your browser. Built with Next.js 16, React 19, Konva, and Cloudinary.
 
 - **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
 
