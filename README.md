@@ -17,19 +17,13 @@
 
 #### 🔷 my latest projects
 
+- **[ReadMeLingo](https://github.com/KartikLabhshetwar/ReadMeLingo)** — Fast batch translation CLI tool for GitHub repository documentation. Translate README, CONTRIBUTING, and docs into 40+ languages using Lingo.dev SDK. Works everywhere Node.js runs with no serverless timeout limits.
+
 - **[Stage](https://github.com/KartikLabhshetwar/stage)** — Modern web-based canvas editor for creating stunning visual designs. Upload images, add text overlays, customize backgrounds, and export high-quality graphics—all in your browser. Built with Next.js 16, React 19, Konva, and Cloudinary.
 
 - **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
 
-- **[Lazy Commit](https://github.com/KartikLabhshetwar/lazycommit)** — CLI tool that automatically writes git commit messages using AI. Never write a commit message again. Seamlessly integrates with git workflows and supports multiple commit styles. Built with Node.js and Groq AI.
-
-- **[Quotick](https://github.com/KartikLabhshetwar/quotick)** — VS Code extension that automatically converts quotes to backticks when typing template literals. Simplifies JavaScript/TypeScript development workflow.
-  
-- **[FleetHQ](https://github.com/KartikLabhshetwar/FleetHQ)** — Enterprise-grade drone fleet management system with interactive mission planning, real-time tracking, analytics dashboard, and JWT-based access control. Features Mapbox integration for flight path visualization.
-
-- **[Overwhelm Breaker](https://github.com/KartikLabhshetwar/overwhelm-breaker)** — Smart productivity app using AI to break down overwhelming projects into manageable tasks. Built with Next.js 14, PostgreSQL, Groq API, and LangChain.
-
-
+- **[Quotick](https://github.com/KartikLabhshetwar/quotick)** — VS Code extension that automatically converts quotes to backticks when typing template literals. Streamlines JavaScript/TypeScript development by eliminating manual conversions and enhancing developer productivity.
 
 
 #### 🔷 building from zero
