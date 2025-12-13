@@ -17,6 +17,8 @@
 
 #### 🔷 my latest projects
 
+- **[Mercurius](https://github.com/KartikLabhshetwar/Mercurius)** — Private, self-destructing chat rooms that automatically expire after 10 minutes. Enables secure, ephemeral conversations with real-time messaging, typing indicators, and message reactions no accounts required. Built with Next.js 16, Elysia, Upstash Redis, and Upstash Realtime for serverless real-time communication.
+
 - **[Foliox](https://github.com/KartikLabhshetwar/foliox)** — AI-powered portfolio generator that automatically creates beautiful developer portfolios from GitHub profiles. Uses Groq AI to generate professional summaries, custom share URLs, and presents everything in a modern, responsive portfolio website. Built with Next.js 16, TypeScript, PostgreSQL, and Prisma.
 
 - **[ReadMeLingo](https://github.com/KartikLabhshetwar/ReadMeLingo)** — Fast batch translation CLI tool for GitHub repository documentation. Translate README, CONTRIBUTING, and docs into 40+ languages using Lingo.dev SDK. Works everywhere Node.js runs with no serverless timeout limits.
@@ -40,6 +42,8 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 - **[Stage](https://github.com/KartikLabhshetwar/stage)** — Modern web-based canvas editor for creating stunning visual designs. Upload images, add text overlays, customize backgrounds, and export high-quality graphics—all in your browser. Built with Next.js 16, React 19, Konva, and Cloudinary.
 
 - **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
+
+- **[Mercurius](https://github.com/KartikLabhshetwar/Mercurius)** — Private, self-destructing chat rooms that automatically expire after 10 minutes. Enables secure, ephemeral conversations with real-time messaging, typing indicators, and message reactions no accounts required. Built with Next.js 16, Elysia, Upstash Redis, and Upstash Realtime for serverless real-time communication.
 
 - **[Lazy Commit](https://github.com/KartikLabhshetwar/lazycommit)** — CLI tool that automatically writes git commit messages using AI. Never write a commit message again. Seamlessly integrates with git workflows and supports multiple commit styles. Built with Node.js and Groq AI.
 
