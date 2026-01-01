@@ -17,17 +17,11 @@
 
 #### 🔷 my latest projects
 
+- **[OneURL](https://github.com/KartikLabhshetwar/oneurl)** — Open-source link-in-bio platform for creating profile pages to share links in one place. Features custom usernames, link management with drag-and-drop reordering, analytics (clicks, referrers, devices), Google OAuth, avatar uploads, and responsive design. Built with Next.js 16, React 19, Express.js, PostgreSQL, Prisma ORM, and Better Auth for authentication and session management.
+
 - **[Mercurius](https://github.com/KartikLabhshetwar/Mercurius)** — Private, self-destructing chat rooms that automatically expire after 10 minutes. Enables secure, ephemeral conversations with real-time messaging, typing indicators, and message reactions no accounts required. Built with Next.js 16, Elysia, Upstash Redis, and Upstash Realtime for serverless real-time communication.
 
 - **[Foliox](https://github.com/KartikLabhshetwar/foliox)** — AI-powered portfolio generator that automatically creates beautiful developer portfolios from GitHub profiles. Uses Groq AI to generate professional summaries, custom share URLs, and presents everything in a modern, responsive portfolio website. Built with Next.js 16, TypeScript, PostgreSQL, and Prisma.
-
-- **[ReadMeLingo](https://github.com/KartikLabhshetwar/ReadMeLingo)** — Fast batch translation CLI tool for GitHub repository documentation. Translate README, CONTRIBUTING, and docs into 40+ languages using Lingo.dev SDK. Works everywhere Node.js runs with no serverless timeout limits.
-
-- **[Stage](https://github.com/KartikLabhshetwar/stage)** — Modern web-based canvas editor for creating stunning visual designs. Upload images, add text overlays, customize backgrounds, and export high-quality graphics—all in your browser. Built with Next.js 16, React 19, Konva, and Cloudinary.
-
-- **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
-
-- **[Quotick](https://github.com/KartikLabhshetwar/quotick)** — VS Code extension that automatically converts quotes to backticks when typing template literals. Streamlines JavaScript/TypeScript development by eliminating manual conversions and enhancing developer productivity.
 
 
 #### 🔷 building from zero
@@ -40,6 +34,8 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 - **[Mind Mentor AI](https://github.com/KartikLabhshetwar/mind-mentor)** — AI-powered educational assistant that revolutionizes learning through Groq AI and LLMs. Provides personalized learning experiences, intelligent study plans, and dynamic resource curation for efficient and engaging education.
 
 - **[Stage](https://github.com/KartikLabhshetwar/stage)** — Modern web-based canvas editor for creating stunning visual designs. Upload images, add text overlays, customize backgrounds, and export high-quality graphics—all in your browser. Built with Next.js 16, React 19, Konva, and Cloudinary.
+
+- **[OneURL](https://github.com/KartikLabhshetwar/oneurl)** — Open-source link-in-bio platform for creating profile pages to share links in one place. Features custom usernames, link management with drag-and-drop reordering, analytics (clicks, referrers, devices), Google OAuth, avatar uploads, and responsive design. Built with Next.js 16, React 19, Express.js, PostgreSQL, Prisma ORM, and Better Auth for authentication and session management.
 
 - **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
 
