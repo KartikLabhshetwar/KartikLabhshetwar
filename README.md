@@ -17,11 +17,13 @@
 
 #### 🔷 my latest projects
 
+Exploring the codebase to understand BetterShot's features and functionality.
+
+- **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — Open-source screenshot tool for macOS, alternative to CleanShot X. Features multiple capture modes (region, fullscreen, window) with global hotkeys, image editing with curated backgrounds (wallpapers, Mac assets, mesh patterns), custom backgrounds (solid colors, gradients, transparent checkerboard), visual effects (adjustable blur and noise), border radius control, high-quality export, clipboard integration, custom save directory, system tray integration, and native performance. Built with Tauri 2, React 19, TypeScript, Tailwind CSS 4, Vite, and Rust (xcap for screenshot capture, arboard for clipboard operations, image for processing).
+
 - **[OneURL](https://github.com/KartikLabhshetwar/oneurl)** — Open-source link-in-bio platform for creating profile pages to share links in one place. Features custom usernames, link management with drag-and-drop reordering, analytics (clicks, referrers, devices), Google OAuth, avatar uploads, and responsive design. Built with Next.js 16, React 19, Express.js, PostgreSQL, Prisma ORM, and Better Auth for authentication and session management.
 
 - **[Mercurius](https://github.com/KartikLabhshetwar/Mercurius)** — Private, self-destructing chat rooms that automatically expire after 10 minutes. Enables secure, ephemeral conversations with real-time messaging, typing indicators, and message reactions no accounts required. Built with Next.js 16, Elysia, Upstash Redis, and Upstash Realtime for serverless real-time communication.
-
-- **[Foliox](https://github.com/KartikLabhshetwar/foliox)** — AI-powered portfolio generator that automatically creates beautiful developer portfolios from GitHub profiles. Uses Groq AI to generate professional summaries, custom share URLs, and presents everything in a modern, responsive portfolio website. Built with Next.js 16, TypeScript, PostgreSQL, and Prisma.
 
 
 #### 🔷 building from zero
@@ -30,6 +32,8 @@ I build from zero. Whether it's frontend, backend, full-stack applications, or A
 
 
 #### 🔷 notable projects
+
+- **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — Open-source screenshot tool for macOS, alternative to CleanShot X. Features multiple capture modes (region, fullscreen, window) with global hotkeys, image editing with curated backgrounds (wallpapers, Mac assets, mesh patterns), custom backgrounds (solid colors, gradients, transparent checkerboard), visual effects (adjustable blur and noise), border radius control, high-quality export, clipboard integration, custom save directory, system tray integration, and native performance. Built with Tauri 2, React 19, TypeScript, Tailwind CSS 4, Vite, and Rust (xcap for screenshot capture, arboard for clipboard operations, image for processing).
 
 - **[Mind Mentor AI](https://github.com/KartikLabhshetwar/mind-mentor)** — AI-powered educational assistant that revolutionizes learning through Groq AI and LLMs. Provides personalized learning experiences, intelligent study plans, and dynamic resource curation for efficient and engaging education.
 
