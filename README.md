@@ -27,7 +27,7 @@
 
 - **[Mind Mentor AI](https://github.com/KartikLabhshetwar/mind-mentor)** — AI-powered educational assistant that revolutionizes learning through Groq AI and LLMs.
   
-- **[Stage](https://github.com/KartikLabhshetwar/stage)** — Modern web-based canvas editor for creating stunning visual designs. 
+- **[ScreenShot Studio](https://github.com/KartikLabhshetwar/screenshot-studio)** — A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 
 - **[Link Preview](https://github.com/KartikLabhshetwar/linkpreview)** - Preview how your links appear on social platforms.
 
