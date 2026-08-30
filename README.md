@@ -19,7 +19,7 @@
 
 - **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — Open-source video recording and screenshot tool for macOS, alternative to Loom & CleanShot X.
 
-- **[ScreenShot Studio](https://github.com/KartikLabhshetwar/screenshot-studio)** — A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
+- **[ScreenShot Studio](https://github.com/opennookorg/screenshot-studio)** — A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 
 - **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
 
