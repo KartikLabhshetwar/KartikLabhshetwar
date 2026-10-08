@@ -17,7 +17,11 @@
 
 #### 🔷 current work
 
+- **[BetterWispr](https://github.com/opennookorg/betterwispr)** — Free, open-source voice dictation app for macOS. Turn speech into text across any app with private, on-device AI transcription.
+
 - **[BetterShot](https://github.com/KartikLabhshetwar/better-shot)** — Open-source video recording and screenshot tool for macOS, alternative to Loom & CleanShot X.
+
+- **[UsefulShelf](https://usefulshelf.co)** — Curated directory for discovering useful apps, AI tools, and websites while helping makers improve visibility in search and AI discovery.
 
 - **[ScreenShot Studio](https://github.com/opennookorg/screenshot-studio)** — A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 
