@@ -25,15 +25,13 @@
 
 - **[ScreenShot Studio](https://github.com/opennookorg/screenshot-studio)** — A free, browser-based editor for creating stunning screenshots and visuals. No signup, no watermarks.
 
+- **[QR Toolset](https://www.qrtoolset.com)** — Free online QR code generator for creating and customizing QR codes without signing up.
+
 - **[Doable](https://github.com/KartikLabhshetwar/doable)** — AI-assisted task management platform. Builds, ships faster with intuitive design for teams.
 
-- **[Mercurius](https://github.com/KartikLabhshetwar/Mercurius)** — Private, self-destructing chat rooms that automatically expire after 10 minutes.
-
-- **[Mind Mentor AI](https://github.com/KartikLabhshetwar/mind-mentor)** — AI-powered educational assistant that revolutionizes learning through Groq AI and LLMs.
-
-- **[Link Preview](https://github.com/KartikLabhshetwar/linkpreview)** - Preview how your links appear on social platforms.
-
 - **[Lazy Commit](https://github.com/KartikLabhshetwar/lazycommit)** — CLI tool that automatically writes git commit messages using AI.
+
+- **[GazeVeil](https://github.com/KartikLabhshetwar/GazeVeil)** — Privacy-first macOS app that automatically blurs your screen when you look away using AirPods motion tracking.
 
 - **[Quotick](https://github.com/KartikLabhshetwar/quotick)** — VS Code extension that automatically converts quotes to backticks when typing template literals.
 
