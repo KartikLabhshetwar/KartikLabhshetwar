@@ -12,7 +12,7 @@
 ---
 
 #### 🔷 my goto stack
-- typescript · javascript · python · go · react · next.js · node.js · express · mongoDB · postgresql · prisma · tailwind · langchain · langgraph · pytorch
+- claude code • codex 
   
 
 #### 🔷 current work
